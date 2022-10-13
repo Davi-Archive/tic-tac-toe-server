@@ -1,0 +1,5 @@
+{
+  "name": "vercel-rest-api-typescript-template",
+  "description": "REST API example to deploy in Vercel(Typescript, Express. MongoDB)",
+  "keywords": ["vercel-typescript-rest-api"]
+}
